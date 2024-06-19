@@ -1,12 +1,8 @@
 # FastGPT-ArchDesc
 
-<p align="center">
-  <a href="./README_en.md">English</a> 
-</p>
-
 FastGPT-ArchDesc is a knowledge base Q&A system based on the project [FastGPT](https://fastgpt.in)
 
-## 使用协议
+## License 使用协议
 
 本仓库遵循 [FastGPT Open Source License](./LICENSE) 开源协议。
 
