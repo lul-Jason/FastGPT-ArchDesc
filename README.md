@@ -1,5 +1,3 @@
-<div align="center">
-
 # FastGPT-ArchDesc
 
 <p align="center">
